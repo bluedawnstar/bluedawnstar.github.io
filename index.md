@@ -4,5 +4,5 @@
   - ...
 
 ## Data Structure
-  - [tree](data structure/tree "tree")
+  - [tree](https://bluedawnstar.github.io/data_structure/tree "tree")
   - ...
